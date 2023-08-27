@@ -1,2 +1,2 @@
 # Customer-Churn-Prediction
-Customer Churn Prediction is a 
+Do refer to the Brief Project Report uploaded for code explaination.
